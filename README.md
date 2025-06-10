@@ -1,9 +1,3 @@
-<div>
-<a href="https://github.com/iDantas7">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDantas7&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=iDantas7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-         
 # Hello, welcome to my GitHub profile.
 ## My name is Iago Dantas and my nickname is 'IDantas7' 👋
 
@@ -20,4 +14,11 @@ A little about me
 - 📫 How to reach me:
 - <div>
   <a href='https://www.instagram.com/iaagodantas/' target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>    <a href="https://www.linkedin.com/in/iago-dantas-6380a31b5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    <a href = "mailto:contato@iagodantas8955@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+</div>
+
+
+<div>
+<a href="https://github.com/iDantas7">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDantas7&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=iDantas7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
