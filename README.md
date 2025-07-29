@@ -10,19 +10,10 @@ I'm **Iago Dantas**, also known as **IDantas7**.
 
 ---
 
-## 💻 Main Technology
-
-
-
----
-
 ## 🛠️ Tools and Technologies
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <div style="display: flex; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java" />
-  <span style="margin-left: 8px;">Java</span>
-</div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />
